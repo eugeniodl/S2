@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoIMC", "CalculoIMC\CalculoIMC.csproj", "{2FE8708D-F918-414A-A7F7-BADA153AE25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionarInventario", "GestionarInventario\GestionarInventario.csproj", "{B34030B5-03E8-474F-BCBD-7E77BDBC3A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE8708D-F918-414A-A7F7-BADA153AE25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE8708D-F918-414A-A7F7-BADA153AE25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE8708D-F918-414A-A7F7-BADA153AE25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE8708D-F918-414A-A7F7-BADA153AE25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34030B5-03E8-474F-BCBD-7E77BDBC3A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34030B5-03E8-474F-BCBD-7E77BDBC3A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34030B5-03E8-474F-BCBD-7E77BDBC3A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34030B5-03E8-474F-BCBD-7E77BDBC3A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E7D5C84-1B14-4D4B-BE7F-FE8C956670E1}
+	EndGlobalSection
+EndGlobal
